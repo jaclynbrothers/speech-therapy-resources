@@ -8,7 +8,7 @@ Video Coming Soon
 
 ## How It's Made
 
-**Tech used:** Coming Soon
+**Tech used:** HTML, CSS, JavaScript
 
 Over the years as a speech therapist, I have had families that requested a website with different activities to practice at home. It is my goal to list the top resources I have recommended to families in one convenient website that users can navigate.
 
